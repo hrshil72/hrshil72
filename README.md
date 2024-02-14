@@ -38,18 +38,17 @@ Self-learned and self-motivated Web Developer with medium level of experience wo
 
 
 ```javascript
-const Ridham = {
+const Harshil = {
   pronouns: "He" | "Him",
-  age: 15 ,
-  code: ["Javascript", "Python", "HTML", "CSS", "C++"],
-  askMeAbout: ["web dev", "frontend dev", "python" ],
+  age: 21 ,
+  code: ["Javascript", "HTML", "CSS", "C++"],
+  askMeAbout: ["web dev", "frontend dev"],
   technologies: {
       frontend: {
           js: ["React JS", "Next JS" , "Typescript" ],
           css: ["Tailwind CSS", "SCSS/SASS"]
       },
       codeEditor: {
-          competitiveProgramming: ["VS Code"],
           frontEndDev: ["VS Code"]
       }
   }
