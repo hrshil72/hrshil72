@@ -17,7 +17,7 @@ Self-learned and self-motivated Web Developer with medium level of experience wo
 
 </p>
 
-<img align="right" alt="Coding" width="400" height="370" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" height="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 **Talking about Personal Stuffs:**
 - 🔭 I’m currently working on `Something Intresting`
